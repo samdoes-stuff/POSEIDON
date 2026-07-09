@@ -69,7 +69,7 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 # Schematics & PCB
   The project was fully made with Easyeda Pro and design hours are logged and documented
 
-[Schematics V1](<SCH_Schematic_2026-07-08.pdf>)
+[Schematics V1](<Design File/SCH_Schematic_2026-07-08.pdf>)
 
 ### Front Layer
 ![Front Layer](PCB_PCB_2026-07-09.png)
