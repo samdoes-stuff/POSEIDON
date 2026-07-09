@@ -94,10 +94,10 @@ Index,LCSC#,MPN,Manufacturer,Package,,Description,,Quantity,MOQ,Multiple,Unit Pr
 93,C50132329,OT1EL89CJI-111YLC-24.576M,YXC Crystal Oscillators,SMD5032-4P,,Oscillator 24.576MHz ±10ppm CMOS 1.8V~3.3V SMD5032-4P,,2,1,1,0.6303,1.26,https://www.lcsc.com/product-detail/C50132329.html
 94,C216361,TNK QT24A03,Transformers,SMD,,1:1 SMD Pulse Transformers RoHS,,1,1,2,1.1467,2.3,https://www.lcsc.com/product-detail/C216361.html?s_z=n_q_C216361&globalKeyword=C216361
 95,,CM4 COMPUTE MODULE,,,,"2GB RAM, 16GB onboard emmc, wireless, heatsink + antenna",,1,1,1,,110,Probably Seed Studio
-96,,MICRO SD CARD,,,,128GB recommended for blueos,,1,1,1,,28,https://www.startech.com.bd/product/search?search=Sd%20card
+96,,MICRO SD CARD,,,,32GB for additional files,,1,1,1,,0,https://www.startech.com.bd/product/search?search=Sd%20card
 97,,PCBA,,,,JLCPCB,,,,,,100+-20,Lemme try and get a sponsorship
 ,,,,,,,,,,,,,
 ,,SHIPPING,,,,LCSC+JLCPCB+XIAO (Singapore Post+ E-Post + Fedex),,,,,,80,
 ,,,,,,E,,,,,,0,
 ,,,,,,,,,,,,,
-,,,,,,Total ( It will be more by the way I didn't include the service charge of the assembly. Please JLCPCB I need these),,,,,,449.19,
+,,,,,,Total ( It will be more by the way I didn't include the service charge of the assembly. Please JLCPCB I need these),,,,,,429.19,
