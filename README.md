@@ -99,6 +99,13 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 
   [BlueOS](https://blueos.cloud/docs/stable/usage/overview/) will be the primary operating system for this board. Only the OS can be determined for now. Sensor calibaration depends on Ardupilot which needs to be done IRL. Also, there is a lot of factor goes on configuring it like as - Power Board, Ethernet Switch, ESC model and type, Grippers and accessories. These things are for full ROV build. So, for the carrier BlueOs installation [guide](https://blueos.cloud/docs/stable/usage/installation/) will be enough after getting the board. I have to sort out the whole ROV comps and then will do a seperate software project for this Carrier
 
+1. To boot the emmc on CM4 use the Micro USB-OTG port on the carrier along with connecting a jumper with the test Pads behind the board named "BOOT" and "GND"  and follow [this](https://youtu.be/SWv-WYlHJWQ?si=i7sY6wG8Rz0ZF506) awsome guide for the next steps. On the [1:25](https://youtu.be/SWv-WYlHJWQ?t=85), choose (raspberry pi os other).
+
+2. Before selecting the Os. Download the latest xbookworm.zip file from [this repo](https://github.com/bluerobotics/BlueOS) Then extract it and get the image file. On the PI Imager tool select the BlueOs image and you done.
+
+3.Also, this carrier has Eeprom. So, to flash the Eeprom is also easy too. Follow [this](https://www.raspberrypi.com/documentation/computers/compute-module.html#flash-compute-module-bootloader-eeprom) guide while performing the above steps.
+
+
 # Credit 
 
 [Blue Robotics](https://bluerobotics.com/) & Murex Robotics
