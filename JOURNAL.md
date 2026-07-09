@@ -1518,5 +1518,3 @@ Here are some cool photos
 
 ### Recording Links
 
-
-Total hours - 136
