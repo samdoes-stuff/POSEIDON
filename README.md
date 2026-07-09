@@ -14,62 +14,62 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 
 # Integrated Sensors/ICs 
 
-## BME680 (Enclosure Pressure, Humidity, Temperature, VOC) 
-   Accurate environmental sensor within enclosure
+### BME680 (Enclosure Pressure, Humidity, Temperature, VOC) 
+    Accurate environmental sensor within enclosure
 
 
-## MMC5983 (Magnetometer), AK009918 (Compass) & BMI088 (IMU)
-   High accuracy 9-DOF MEMS sensor (±1˚ magnetic heading, ±0.004˚/s gyroscopic heading, ±0.09 mg acceleration)
-   Optional : A I2C Connector is given for external pressure sensor
+### MMC5983 (Magnetometer), AK009918 (Compass) & BMI088 (IMU)
+    High accuracy 9-DOF MEMS sensor (±1˚ magnetic heading, ±0.004˚/s gyroscopic heading, ±0.09 mg acceleration)
+    Optional : A I2C Connector is given for external pressure sensor
 
 
-## Leak Sensor
-   There are 3 ways to connect a Leak Sensor and a dedicated LED is given for the Indication
+### Leak Sensor
+    There are 3 ways to connect a Leak Sensor and a dedicated LED is given for the Indication
 
 
-## TPS259474LRPWR (eFuse)
-   5V and 3.3V independent input protection
+### TPS259474LRPWR (eFuse)
+    5V and 3.3V independent input protection
 
 
-## ADS1115 (Analog to I2C)
-   Converts the Two ILIM analog line from eFuse to I2C to go the CORE I2C Bus 
+### ADS1115 (Analog to I2C)
+    Converts the Two ILIM analog line from eFuse to I2C to go the CORE I2C Bus 
 
 
-## PCA9685 (SPI to PWM)
-   Uses SPI signal to output 16 PWM pins which can be used for ESC, Lumen, Camera Tilt etc.
+### PCA9685 (SPI to PWM)
+    Uses SPI signal to output 16 PWM pins which can be used for ESC, Lumen, Camera Tilt etc.
 
 
-## M24C32 (Eeprom)
-   Used for saving Bootloader Settings and Firmware
+### M24C32 (Eeprom)
+    Used for saving Bootloader Settings and Firmware
 
 
-## TXS0102 (Logic Converter)
-   Pulls Up the GPIOs from CM4 and provides better a single lane I2C and 4 Lane Tx/Rx Lines
+### TXS0102 (Logic Converter)
+    Pulls Up the GPIOs from CM4 and provides better a single lane I2C and 4 Lane Tx/Rx Lines
 
 
-## uPD720202 (USB 3.0)
-   USB host controller LSI compatible with the USB 3.0 and xHCI (eXtensible Host Controller Interface) 1.0 specifications
+### uPD720202 (USB 3.0)
+    USB host controller LSI compatible with the USB 3.0 and xHCI (eXtensible Host Controller Interface) 1.0 specifications
 
 
-## AP3429KTTR-G1 (1.05V DC-DC Converter)
-   1MHz 2A DC-DC converter
+### AP3429KTTR-G1 (1.05V DC-DC Converter)
+    1MHz 2A DC-DC converter
 
-## USB2514 (USB2.0 HUB) & FSUSB42MUX (Micro USB-OTG)
-   Converts CM4's USB Line and OTG ID into Two USB2.0 and a MicroUSB OTG
+### USB2514 (USB2.0 HUB) & FSUSB42MUX (Micro USB-OTG)
+    Converts CM4's USB Line and OTG ID into Two USB2.0 and a MicroUSB OTG
 
-## More
-   Full system protection on power rails
-   Transient protection on vital data lines
-   5V and 3.3V power rail LEDs (Debug/Status)
-   3 User Addressable Leds
-   Ethernet G/Y LEDs (Debug/Status)
-   SK6812 indication for RGB Strip
+### More
+    Full system protection on power rails
+    Transient protection on vital data lines
+    5V and 3.3V power rail LEDs (Debug/Status)
+    3 User Addressable Leds
+    Ethernet G/Y LEDs (Debug/Status)
+    SK6812 indication for RGB Strip
 
 
 # Schematics & PCB
   The project was fully made with Easyeda Pro and design hours are logged and documented
 
-[Schematics V1](<Design File/SCH_Schematic_2026-07-08.pdf>)
+[Schematics V1](<SCH_Schematic_2026-07-08.pdf>)
 
 ### Front Layer
    ![Front Layer](PCB_PCB_2026-07-09.png)
