@@ -97,4 +97,8 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 
 # Code & Firmware
 
-  [BlueOS](https://blueos.cloud/docs/stable/usage/overview/) will be the primary operating system for this board. Only the OS can be determined for now. Sensor calibaration depends on Ardupilot which needs to be done IRL. Also, there is a lot of factor goes on configuring it like as - Power Board, Ethernet Switch, ESC model and type, Grippers and accessories. These things are for full ROV build. So, for the carrier BlueOs installation [guide](https://blueos.cloud/docs/stable/usage/installation/) will be enough after getting the board.
+  [BlueOS](https://blueos.cloud/docs/stable/usage/overview/) will be the primary operating system for this board. Only the OS can be determined for now. Sensor calibaration depends on Ardupilot which needs to be done IRL. Also, there is a lot of factor goes on configuring it like as - Power Board, Ethernet Switch, ESC model and type, Grippers and accessories. These things are for full ROV build. So, for the carrier BlueOs installation [guide](https://blueos.cloud/docs/stable/usage/installation/) will be enough after getting the board. I will do a seperate software project for this Carrier
+
+# Credit 
+
+[Blue Robotics](https://bluerobotics.com/) & Murex Robotics
