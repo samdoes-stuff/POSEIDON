@@ -1,5 +1,3 @@
-# This project needs a manual review
-
 
 # 23/03/2026
 
@@ -154,7 +152,8 @@ First What is already equipped
 
 Named the project. Though About what should I made. It was a basically a test recording to see if lapse work or not 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTczLCJwdXIiOiJibG9iX2lkIn19--1212fae5a056af1b5be21bd65dd9671dd03578b0/image.png)
+<img width="1596" height="812" alt="image" src="https://github.com/user-attachments/assets/76d2a7a8-eb4f-40a5-8ca4-3a84246cd516" />
+
 
 
 ### Recording Links
@@ -170,7 +169,8 @@ Named the project. Though About what should I made. It was a basically a test re
 
 Added the CM4 female connector to the schematics. It was sort and was part of  the lapse testing. ty
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0LCJwdXIiOiJibG9iX2lkIn19--3691c1a5528cbc84d37dab1ab2e9eeb3524cc960/image.png)
+<img width="665" height="637" alt="image" src="https://github.com/user-attachments/assets/c11c6c58-f323-4b08-ade2-677beb171054" />
+
 
 
 ### Recording Links
@@ -186,7 +186,8 @@ Added the CM4 female connector to the schematics. It was sort and was part of  t
 
 Main goal was to make  a ROV so looked up some existing rov controller to make my design. Completed the UART section in the CM4. Took help from BLUE ROBOTICS NAVIGATOR design.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg1LCJwdXIiOiJibG9iX2lkIn19--047dbe2c1aa03d4e98c86c010d7d45d2284b5e85/image.png)
+<img width="770" height="619" alt="image" src="https://github.com/user-attachments/assets/ee76a77b-2834-4d33-9440-aac3d0a7f111" />
+
 
 
 ### Recording Links
@@ -202,7 +203,8 @@ Main goal was to make  a ROV so looked up some existing rov controller to make m
 
 Just finished the GPIO routing in  CM4. Basically using Blue Robotics Navigator Flight controller as a reference. Deciding which CM4 to select and using SD card or not. Probably will have space for both SD Card and SSD.
 
-![Screenshot 2026-03-15 100433.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM3LCJwdXIiOiJibG9iX2lkIn19--3894b7fe28180c8995eb35882c498feb4cfb4940/Screenshot 2026-03-15 100433.png)
+<img width="770" height="619" alt="image" src="https://github.com/user-attachments/assets/4e5356ef-cc85-41db-b6cb-04e76e9e8c34" />
+
 
 
 
@@ -220,7 +222,8 @@ Completely blundered the Schematics. I thought that kicad pin assignment refers 
 
 Also I was wondering what should I use. A sd card or a ssd. I didn't decided yet so I left it for later did some research though
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgyLCJwdXIiOiJibG9iX2lkIn19--8df74ab5c32a1a20edb15d7c0b79066396ddd9d6/image.png)
+<img width="885" height="378" alt="image" src="https://github.com/user-attachments/assets/7d41ae2f-0831-42f2-9643-0633285521da" />
+
 
 
 ### Recording Links
@@ -236,9 +239,9 @@ Also I was wondering what should I use. A sd card or a ssd. I didn't decided yet
 
 Done the power indicating LED and GPIO pullup resistor. Kind of Just made the framework how the power and storage would look like.  Also changed the 3.3V power source to external. Thinking to provide external sources but how it will work I am not sure. Have to do a lot of research then.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgzLCJwdXIiOiJibG9iX2lkIn19--5496214dfb0dda7678684d3f5491da1f14fee0c1/image.png)
+<img width="931" height="420" alt="image" src="https://github.com/user-attachments/assets/e8a8e4bd-0b9b-49e9-882f-f2784b2617ab" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0LCJwdXIiOiJibG9iX2lkIn19--f658ceb0df70f203b08f1c134c5fe957b758f812/image.png)
+<img width="689" height="244" alt="image" src="https://github.com/user-attachments/assets/4d097136-5b03-4afa-b039-e74e5612654a" />
 
 
 ### Recording Links
@@ -258,7 +261,8 @@ Also I worked with Leak Sensor, eeprom, Cm4 running indicator led  and called it
 
 I am thinking how can I work with the power. That is the main issue now
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg3LCJwdXIiOiJibG9iX2lkIn19--a8bde3e1f6834c7e16b7c76c3791d3b2d813bcad/image.png)
+<img width="879" height="623" alt="image" src="https://github.com/user-attachments/assets/ce38f265-a34b-498b-8159-2c2bba468274" />
+
 
 
 ### Recording Links
@@ -277,17 +281,20 @@ Routed the Second CM4 connector.
  Added a HDMI support for using it as a device later. 
 I may add a eDP display instead of HDMI or a USB-C display to avoid power problems. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzNywicHVyIjoiYmxvYl9pZCJ9fQ==--8b6c00d3ccd28498714d888934f79c9cb0992b0f/image.png)
+<img width="914" height="491" alt="image" src="https://github.com/user-attachments/assets/320bd427-f2a1-4997-b35c-f7c92fccfc0c" />
+
 
 Added leak sensor for working as a RC under water
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--7b81e6133e1f9aebfa24a72b1ab0d1360c228c6e/image.png)
+<img width="550" height="431" alt="image" src="https://github.com/user-attachments/assets/dcadfbdd-9b3d-496d-8c3f-23579f37e6c3" />
+
 
 also for testing this controller with my joystick, I added analog input options 
 
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--93512a219f38502ce6c606ed8850a76b6b5d2031/image.png)
+<img width="671" height="500" alt="image" src="https://github.com/user-attachments/assets/9b13d923-1f64-4a51-ad8b-045837a697a5" />
+
 
 
 ### Recording Links
@@ -307,17 +314,18 @@ I think I can fit all in pretty easily.
 
 Added the PWM channel as same as the Navigator one. It will be used to have ESC's signal and control some servos. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bbfa89dc9cdaa3bfc71fa1dc6cf8bc4ff9d69a9b/image.png)
+<img width="601" height="434" alt="image" src="https://github.com/user-attachments/assets/7bbfdda5-1be4-4b37-b725-eca7d3e0c743" />
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--7639e10dffddc6e09a174527b38f5ddda6c7092b/image.png)
+<img width="987" height="469" alt="image" src="https://github.com/user-attachments/assets/35566b53-1aa5-4b42-a7be-bc222cf19846" />
 
 
 For the first time, I knew about array resistors. It is a package where multiple resistors are together to reduce the price. 
 
 Also added SBUS to controll RC Signal if I think to fly it as a drone. It will be pretty cool. But I don't know how the Sbus system works in navigator. I will find out later.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5503f96e43a91e02fdaa8ceaca9a7ed1f10d6b31/image.png)
+<img width="900" height="567" alt="image" src="https://github.com/user-attachments/assets/6fb2cb25-0b5e-4a9c-85ca-f032e7ef94ec" />
+
 
 
 ### Recording Links
@@ -333,11 +341,13 @@ Also added SBUS to controll RC Signal if I think to fly it as a drone. It will b
 
 Worked on Logic converter to expose some rx, tx and sda_scl output
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f81e8fd3ce67731b491d5882c14ee49d5c95cd32/image.png)
+<img width="795" height="431" alt="image" src="https://github.com/user-attachments/assets/7ff169a9-cc7d-4bc7-a28a-9b8af0b27fa8" />
+
 
 Also worked on general Connectors which are pretty common for a RC controller. It is as just as navigator output.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ded783ee57e55c5c06d585336e988d4e45eb798/image.png)
+<img width="452" height="595" alt="image" src="https://github.com/user-attachments/assets/bfdea315-9127-4c6d-b3ed-12485e3106c8" />
+
 
 
 ### Recording Links
@@ -357,7 +367,8 @@ Another one is emmc or sd card. lemme think letter.
 
 Followed some M.key routing guide online. You can add so much feature to a M.2 connector. But checking my pins I realised I don't have enough CM4 outputs to make the best version it self. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c3303209eaac5c8de7199a8185067800fcc04af7/image.png)
+<img width="717" height="168" alt="image" src="https://github.com/user-attachments/assets/6b71b57a-71e9-4ddf-bc13-e198b8770423" />
+
 
 Also CM4 and CM5 both needs to attach an oscillator to the connector. 
 
@@ -366,7 +377,8 @@ And for clear 3V, we won't use normal one but step down the main 5V to 3V3. Ther
 
 Also done the ethernet routing for network. I thought I would make the network switch with it  but that will be for later. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--91ed7a1c422c3fdcd4c84f99a83ec343852c79c6/image.png)
+<img width="741" height="504" alt="image" src="https://github.com/user-attachments/assets/a255d996-b166-4254-b3f5-49716780d3a1" />
+
 
 
 
@@ -384,7 +396,7 @@ Did some research about M.2 footprint and found new atrocious storage option "UF
 
 Either I will make it onboard or I will do nothing. I tried to figured out what they are using as chips.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--585da544e4b2ae97f11ebb91ecc6d95ea0fcce34/image.png)
+<img width="428" height="340" alt="image" src="https://github.com/user-attachments/assets/a5f0feef-ab0e-4403-b656-5882d928d270" />
 
 
 ### Recording Links
@@ -408,7 +420,8 @@ Also I have to add a camera for navigation. But I have to settle on some camera 
 
 I was researching some good connectors too but after sawing some schematic, I need more scl pins in 4 lane camera that CM4 doesnot have.  Imma crashout
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f8c6182ad53fcef4802e188324dc5a87b30f7840/image.png)
+<img width="377" height="472" alt="image" src="https://github.com/user-attachments/assets/6ad703ce-7ebf-4db2-81d2-19f9c18ce7b2" />
+
 
 
 ### Recording Links
@@ -429,7 +442,8 @@ is very bad for following and don't have the UFS support that I want and I will 
 
 checking out the GPIO pins are compatible with me schematics or not
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8048c03aeb4270d91384a172f22f8093650fc7b2/image.png)
+<img width="829" height="525" alt="image" src="https://github.com/user-attachments/assets/771cf05f-0ebf-42e9-a730-fd7aa1417f38" />
+
 
 
 ### Recording Links
@@ -447,7 +461,8 @@ Researching about CM4 and RADXA CM5. Finding out which is better and suit my pla
 
 Procasinating about my plans. And started finishing my SSD and Started my Fan connector
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--3e980a9aac82155daf279145979be3bdba026f18/image.png)
+<img width="1036" height="294" alt="image" src="https://github.com/user-attachments/assets/b4f2e77d-9fc7-48ea-9215-221e74096a79" />
+
 
 
 ### Recording Links
@@ -474,9 +489,9 @@ Many of the display panel don't have a public datasheet and I don't want to take
 
 For now, I will have HDMI, Type-C Display and a touch screen lcd for later. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--090b764dd33df77dd969a022cbcccc95032340c5/image.png)
+<img width="490" height="619" alt="image" src="https://github.com/user-attachments/assets/bbbf3a43-69ec-4778-9cce-3a74ae1199bd" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d4b69beb53b22b29e00167995e2e179fb654bb44/image.png)
+<img width="689" height="328" alt="image" src="https://github.com/user-attachments/assets/6137cc26-ea2c-4469-9c65-4f1458b47b61" />
 
 
 ### Recording Links
@@ -492,9 +507,9 @@ For now, I will have HDMI, Type-C Display and a touch screen lcd for later.
 
 Just doing the USB-C display option but my current went off sadly. I am still thinking about display options
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--cad2771195411788b86425147535e3e86ed029fd/image.png)
- 
+<img width="955" height="518" alt="image" src="https://github.com/user-attachments/assets/e54b746d-48c2-4525-832a-456144576b87" />
 
+ 
 ### Recording Links
 
 
@@ -514,7 +529,8 @@ My main concern is now that. Can the friendly elec module successfully run while
 
 I don't have any good picture for this season. This is the module's pic.
 
-![Screenshot_20260329-233900.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c9fe9bc64259670fd97e334af7c6095c346b2008/Screenshot_20260329-233900.png)
+<img width="720" height="822" alt="image" src="https://github.com/user-attachments/assets/3d243d48-440d-4a75-9bf7-13cb9249cf7b" />
+
 
 
 ### Recording Links
@@ -532,11 +548,11 @@ Working with the friendly Elec CM3588 Pinout.
 Matching the pinout with What I need and What is already equipped by my device. 
 Most of the cases, I need a 3.3V gpio pin where there are also some 1.8V Gpio Pins. So we have to select carefully. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4ODYsInB1ciI6ImJsb2JfaWQifX0=--7eb2ae238b140ea05eafee7b0affbd8bbb441bc8/image.png)
+<img width="783" height="669" alt="image" src="https://github.com/user-attachments/assets/e4fa7687-514f-44f9-84f9-9f4e9ae0587a" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4ODcsInB1ciI6ImJsb2JfaWQifX0=--a6cbdb5085cdc78265c99c85ece7a0c74c85e18b/image.png)
+<img width="760" height="581" alt="image" src="https://github.com/user-attachments/assets/d6b21674-aab0-45fa-bf0a-3e9a2833c466" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4ODgsInB1ciI6ImJsb2JfaWQifX0=--8dd5ce32ea99c6009507660d326173c604006a20/image.png)
+<img width="728" height="535" alt="image" src="https://github.com/user-attachments/assets/e517686c-6bf5-4ce5-b156-38498d9a08c4" />
 
 
 ### Recording Links
@@ -573,7 +589,7 @@ Putting the GPIO pins right now. Leaving the SYNC_IN and SYNC_OUT portion. Reaso
 2. I also don't have multiple CM4 to make use of this pin cause these are what those pins are really for (to syncronize their connection in a cluster and Camera)
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMDAsInB1ciI6ImJsb2JfaWQifX0=--9e4ce77b50782586f662c9c16aa90331f707eff6/image.png)
+<img width="1068" height="651" alt="image" src="https://github.com/user-attachments/assets/269d9f5f-1943-4225-a9d8-0484a3cbcd56" />
 
 
 ### Recording Links
@@ -591,7 +607,7 @@ Researching on the eeprom nwp of the CM4. As for now what I got is, I don't need
 
 Claude suggested me to pull it up,. But I went through documentation of the official CM4
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMzgsInB1ciI6ImJsb2JfaWQifX0=--3f9142ba0860d7224d4a05bac6af7c6a7065fd6f/image.png)
+<img width="1585" height="808" alt="image" src="https://github.com/user-attachments/assets/8769d82e-3400-438a-9cdc-76103c51316b" />
 
 So, I came to conclusion that I don't need it to be pulled down permanently cause I need access to fan settings, HDMI and network  Boot.   
 
@@ -626,7 +642,8 @@ Looks like CM4 is both capable of both Wifi and bluetooth. Then why you need to 
 For now, one connector is full completed. (Again with proper knowledge)
 
   
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAwNTMsInB1ciI6ImJsb2JfaWQifX0=--4cef0b4c0946723833b9993a46df3ede825d926a/image.png)
+<img width="542" height="620" alt="image" src="https://github.com/user-attachments/assets/81358b4b-ccc5-457e-83fb-97bf76c9e1d5" />
+
 
 
 ### Recording Links
@@ -663,7 +680,7 @@ The HDMI0 is used for the display. Cause it is the best output from CM4 and the 
 
 The connector portion is finished. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAyMjksInB1ciI6ImJsb2JfaWQifX0=--808a64313fe8979f44fc3db15151975e84f10a8b/image.png)
+<img width="591" height="598" alt="image" src="https://github.com/user-attachments/assets/eb07cb29-a25d-48fc-a4b4-d2aa010eca4a" />
 
 
 Going in the accessories side of my board, I found that IIC connection is very important. But I know too little about it.  So, I have to learn the software side of it. 
@@ -674,7 +691,7 @@ Also, I spread misinformation about ethernet led power. I am very sorry for that
 
 Working one the RTC. Suddenly got stuck with the crystal used in the RTC chip. Thankfully to some reddit post, I found specification for the crystal.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNTAsInB1ciI6ImJsb2JfaWQifX0=--22bf70fe499c39907d1a340cf58ce5c48770d163/image.png)
+<img width="1599" height="812" alt="image" src="https://github.com/user-attachments/assets/4198d6c5-651f-4149-8a71-1040e2411225" />
 
 Learnt about the watchdog feature. which is actually lit !!!
 
@@ -684,7 +701,7 @@ So, it has a pulse system where it takes a break to restart and goes back to pre
 
 I can easily use this in carrier. If anything goes wrong rather than hardware, I don't have to do nothing. I may use the windows startup lookalike feature for my program. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNjksInB1ciI6ImJsb2JfaWQifX0=--6ab0d62f5d4abccf4b49aabd71731df1b22a6723/image.png)
+<img width="983" height="252" alt="image" src="https://github.com/user-attachments/assets/783041fd-2e2b-4ebd-a5b6-7198993ad9fd" />
 
 
 Now to the power, first of all I will refer to the Blue robotics Navigator power section. 
@@ -711,19 +728,19 @@ So, total 5 USB is need for the board. Which is little excessive but workable. B
 
 The USB hub chip is lil bit weird in official  CM4 io board schematics but none the less I am gonna use that. New problem acquired with the crystals specification used in the chip. I found some info for the chip's datasheet. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA1NzcsInB1ciI6ImJsb2JfaWQifX0=--a2b13649adf89bace4824ee91879aeb74511c2e1/image.png)
+<img width="1599" height="805" alt="image" src="https://github.com/user-attachments/assets/07d1ec73-3f14-41ab-bf4f-314566ce2b64" />
 
 
 I told Ai to calculate its specification with 27 pf capacitor used in the official schematics. I found this one which will do the job. But according to calculation it is too over powered. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA1NzgsInB1ciI6ImJsb2JfaWQifX0=--0c10a97a04318c42458bdde98cdf98d984a9b69d/image.png)
+<img width="1592" height="784" alt="image" src="https://github.com/user-attachments/assets/86470d86-4ef7-4c15-a88a-9596f40bf71d" />
 
 
 But the crystal isn't correct cause it's four pin and I need 2 pin one. Atleast I found that.  
 
 The decoupling of the 3v3 is just copy paste.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA1ODIsInB1ciI6ImJsb2JfaWQifX0=--cd8a41b67eb8515fece3edcaf0944ad2725654f1/image.png)
+<img width="854" height="500" alt="image" src="https://github.com/user-attachments/assets/505cf9f5-398d-4e8b-91cc-08bc4ff4b57c" />
 
 
 ### Recording Links
@@ -739,7 +756,7 @@ The decoupling of the 3v3 is just copy paste.
 
 USBhub is completed. I used USB-C for OTG. and two USB 2.0 Female Type-A for accessories to connect.  May use the other two ports for audio signal or some.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA3NTgsInB1ciI6ImJsb2JfaWQifX0=--b79555c28e5cef2282e32343ea06bdcdb40f3d92/image.png)
+<img width="886" height="636" alt="image" src="https://github.com/user-attachments/assets/060eeda4-4258-4f41-ab1d-5009185bdc3f" />
 
 
 ### Recording Link
@@ -769,7 +786,7 @@ I kinda figured out the power sense module. It is needed for watching the voltag
 
 Finished up the component sourcing + routing of the navigator power section. It was quite filled with resistor and capacitor.
  
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA4NTIsInB1ciI6ImJsb2JfaWQifX0=--bd89c671ad552ed04f36dd25915e2faffa3b5c92/image.png)
+<img width="920" height="430" alt="image" src="https://github.com/user-attachments/assets/ad6c971f-880c-4ae5-8c64-c463055cc2a9" />
 
 From my knowledge, I have to isolate the power section of the board cause it can heatup. GND stiching would be great for thermal.
 
@@ -799,13 +816,14 @@ For other design, I can easily get through the resistor and capacitor but power 
 
 Power sense unit is complete 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA5NjgsInB1ciI6ImJsb2JfaWQifX0=--3e4b44fa99531e83da472821a4b666c5c4872b65/image.png)
- 
+<img width="850" height="435" alt="image" src="https://github.com/user-attachments/assets/b6117c10-f3ce-484a-9a38-e33c6d1c51c6" />
+
 Now, I have to work on auxiliary power when I am not using battery and also and step down module like bluerobotics which can give 5V 6A. Let just hope I can get something like that even for USB type-C that works.
 
 Got to know what is pull low and pull high is. Image is given here  for your advantage 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA5NzMsInB1ciI6ImJsb2JfaWQifX0=--3db5120a37395918b70ee4b0067d2f49a6b25bdf/image.png)
+<img width="473" height="326" alt="image" src="https://github.com/user-attachments/assets/ed2d161f-280d-44a8-9fd1-832de3694fe3" />
+
 
 I think making a step down converter is risky. I found one but cannot focus right now. After reviewing the actual rp 4 model b. It also use 5V power from the usb. So, I will consider this tomorrow.
 
@@ -848,13 +866,13 @@ Honestly, unlike any other project, I read a lot less schematics. Cause the proj
 
 After researching a bit about 5V 6A, I found this board in blue robotics forum. I genuinely hope this can help me. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1MDksInB1ciI6ImJsb2JfaWQifX0=--99cd1275a07bdd5b91450df44f752ed04e770bde/image.png)
+<img width="1599" height="811" alt="image" src="https://github.com/user-attachments/assets/d4295176-ee4a-4301-9437-3ac1f6e82ca9" />
 
 can this happen when input voltage in high but Amps is low and step down generates high Amps. 
 
 Yes this is possible. I don't know the core about it yet but it was knowledgeful. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1MzcsInB1ciI6ImJsb2JfaWQifX0=--ea2be6709674396aa315d4db8246859b35c743e6/image.png)
+<img width="651" height="248" alt="image" src="https://github.com/user-attachments/assets/623cea04-9cb2-4cf8-a937-b22135221d05" />
 
 Lots of research today but only less schematics.
 
@@ -875,13 +893,12 @@ I am still very confused about the power. Should I make the board for my own pur
 
 I am still in a process of thoughts and don't know what to go ahead. Losing the motivation to work on by the way Half of the PSu in finished.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1NzAsInB1ciI6ImJsb2JfaWQifX0=--09d369046c1a7cdb16c5c0b9a7bd86265715ce09/image.png)
+<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/398932b9-2d62-4606-b4d5-aa1f28ce57a0" />
 
 Also, I lot of research 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1NzEsInB1ciI6ImJsb2JfaWQifX0=--30a3862e99a8a5b106097387a8e6ffbbb74088d1/image.png)
+<img width="945" height="567" alt="image" src="https://github.com/user-attachments/assets/73cff5b6-5d1b-4378-bac9-31d9487e5381" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1NzMsInB1ciI6ImJsb2JfaWQifX0=--42731082140aa7bac2ad3db00bd9de1d1555ae34/image.png)
 
 
 ### Recording Links
@@ -901,13 +918,13 @@ I have to make a power board. That is the solution. I don't want to mess thing u
 
 Middle of the power, I remembered to put ESD protection on my USB signals.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE5OTQsInB1ciI6ImJsb2JfaWQifX0=--53f5c29089dc30e87b4f5a11c7250621bb4727b0/image.png)
+<img width="1008" height="592" alt="image" src="https://github.com/user-attachments/assets/6ae394e1-780e-4458-9a77-dfc19b5b40f8" />
 
 Got stuck on the OTG section of the USB again which I actively skipped. The problem is caused  by the CC pins. 
 
 Just got to know USB-C doesn't support OTG. Get fcked
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMTEsInB1ciI6ImJsb2JfaWQifX0=--05fb32ba6c56dd323d1dcb7d941f09fb784726a5/image.png)
+<img width="522" height="265" alt="image" src="https://github.com/user-attachments/assets/bccf5653-7370-4f80-bc1a-f1c8157c26fb" />
 
 I hate to say but I have to do micro-USB. Also I made a mistake by using a two stack usb just like the IO board. But I don't need it rather it just increases the height of my carrier.
 
@@ -915,13 +932,13 @@ Yeah decision final. Separate Power Board.
 
 3V3 section is complete. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwNzMsInB1ciI6ImJsb2JfaWQifX0=--50741f72bfffef8dbc907846ccf5f4f68f1aa93e/image.png)
+<img width="857" height="339" alt="image" src="https://github.com/user-attachments/assets/3f7d1d61-a243-4a1f-b96a-3f52c991e52b" />
 
 FInally moved to PCB. 
 
 Just before moving to PCB, another realization hit me. I didn't check my power connectors Amp ratings or voltage ratings. So, There was a good chance that my connector would burn. I have rechanged those to good shit.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwNzYsInB1ciI6ImJsb2JfaWQifX0=--c8fc8e9ded8564b22ee1996bb1c640e030d24f3e/image.png)
+<img width="1530" height="102" alt="image" src="https://github.com/user-attachments/assets/de48af8b-cd87-4054-82c7-b238672f0e93" />
 
 Now another problem. If I stack those selected pins, those won't be together to put my wires. It has so gaps. And roaming around I couldn't decide on a high amps connector cause everything is just weird. 
 
@@ -943,7 +960,7 @@ I have to change and go through revision to make sure all the connector are capa
 Probably all set but there is a high chance I will see another problem after starting my schematics. 
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNzIsInB1ciI6ImJsb2JfaWQifX0=--f6731da977ab6081bb0fc086398c3c5104f60d4a/image.png)
+<img width="409" height="601" alt="image" src="https://github.com/user-attachments/assets/9624465e-05b1-4a7a-9bba-2f399f3e6ac5" />
 
 
 
@@ -961,7 +978,7 @@ Probably all set but there is a high chance I will see another problem after sta
 
 I am such a dumb for not using the RP CM4 official schematics. But the replacement was short timed.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI3ODIsInB1ciI6ImJsb2JfaWQifX0=--8adb4fee1cdc747fc03c5edcf831dd5f3af29f07/image.png)
+<img width="822" height="389" alt="image" src="https://github.com/user-attachments/assets/23375905-8636-4127-8299-6fe7ff53eab7" />
 
 Instead of using jumper, I am thinking of using test pad and solder bridge some connections if needed.
 
@@ -984,11 +1001,11 @@ Starting with the power section. But first I had to manually make front silk scr
 
 working on the power section.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI5MTAsInB1ciI6ImJsb2JfaWQifX0=--1e109d9db49d9115e00d69fe9d65889c13e05f21/image.png)
+<img width="421" height="588" alt="image" src="https://github.com/user-attachments/assets/fb0fdf44-e52b-4e27-b3a7-748c1e782d77" />
 
 Just finished the power section with CMOS. But the space feels lil tight.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI5MzUsInB1ciI6ImJsb2JfaWQifX0=--8bf71995824fe4b001839b14f2d65b90f5b1f35f/image.png)
+<img width="504" height="409" alt="image" src="https://github.com/user-attachments/assets/f5f33339-fc8b-4cd4-b966-ea650f5e87d3" />
 
 
 ### Recording Links
@@ -1003,7 +1020,8 @@ Just finished the power section with CMOS. But the space feels lil tight.
 ### Content
 
 Placing the components out in the board.  It takes so much time.
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMxMjQsInB1ciI6ImJsb2JfaWQifX0=--fbc40a6845827c174379f37401b0561eee664259/image.png)
+
+<img width="627" height="476" alt="image" src="https://github.com/user-attachments/assets/e5e35a12-158d-4fe2-97d6-989e50e06f86" />
 
 Space is so tight but have to fit all of the connectors. I am highly thinking about changing all to male connector
 
@@ -1029,10 +1047,10 @@ Also, forgot to separate analog and digital gnd.
 
 FInished the power board schematics. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NjIsInB1ciI6ImJsb2JfaWQifX0=--18aeeb66bb29e2ae3070dbcdc63558218947d74c/image.png)
+<img width="871" height="574" alt="image" src="https://github.com/user-attachments/assets/abed2a6f-7d5c-4547-88a6-2396cc539639" />
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NjQsInB1ciI6ImJsb2JfaWQifX0=--f84e47abbb759be9c60136801b4f687bac4c42c6/image.png)
+<img width="325" height="444" alt="image" src="https://github.com/user-attachments/assets/a2dd4a79-d89d-4354-ac34-3b5c7b3be7a8" />
 
 
 Next stop is to put the power sense module.
@@ -1052,13 +1070,13 @@ Power Module is complete with the power sense module. The output  is a 5V and 3V
 
 Also there is 8 pin Power sense connection directly to the board.
 
-![Screenshot 2026-05-31 123614.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNzUsInB1ciI6ImJsb2JfaWQifX0=--4bf0fe4dc6013d2c4dc13b3be7d46c19e894cf40/Screenshot 2026-05-31 123614.png)
+<img width="829" height="389" alt="image" src="https://github.com/user-attachments/assets/451ddf95-e7c9-45f7-a194-237f4da8b8dd" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNzYsInB1ciI6ImJsb2JfaWQifX0=--b395029e3550bdc853d7078c1e9efc4e5af8b0ad/image.png)
+<img width="634" height="291" alt="image" src="https://github.com/user-attachments/assets/d5fa02ba-e22a-4cc5-acce-61d6577134a1" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNzcsInB1ciI6ImJsb2JfaWQifX0=--7cb25168b7b27147e0314680795aed41aadc17c5/image.png)
+<img width="549" height="308" alt="image" src="https://github.com/user-attachments/assets/f8a30930-ad61-499b-8b56-b389a7d3c2bf" />
 
-![Screenshot 2026-05-31 123712.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNzgsInB1ciI6ImJsb2JfaWQifX0=--38e350f88629716069c9befc3b19506dedc50f32/Screenshot 2026-05-31 123712.png)
+<img width="563" height="283" alt="image" src="https://github.com/user-attachments/assets/296a4816-3640-43f2-b14a-37251d7c009e" />
 
 
 ### Recording Links
@@ -1076,18 +1094,18 @@ Following up with the design guide for my Power supply board.
 
 Working on the silkscreen of the PCB.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MjEsInB1ciI6ImJsb2JfaWQifX0=--c559f4fb60251e94413c0b1549da1a7e6faa90fb/image.png)
+<img width="577" height="293" alt="image" src="https://github.com/user-attachments/assets/407a7b95-1352-4a1b-972b-c9dab4fcde46" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MjIsInB1ciI6ImJsb2JfaWQifX0=--1238ca0b00b299a1bdd5bedfa570997131ac7efd/image.png)
+<img width="836" height="602" alt="image" src="https://github.com/user-attachments/assets/6c514e2d-1d86-4ec4-b741-143e986015d0" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MjMsInB1ciI6ImJsb2JfaWQifX0=--730876b1d0a45161ae148f9db059e698f74eb035/image.png)
+<img width="728" height="472" alt="image" src="https://github.com/user-attachments/assets/da15a3f0-a6ac-4be1-b527-058f310891db" />
 
 
 Finished for the power board for just now. I may change the design for better thermal efficiency.
 
 Starting the high speed portion of my board.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MzYsInB1ciI6ImJsb2JfaWQifX0=--2f96f287b200e58a97d8657c2d9390469430a5c1/image.png)
+<img width="458" height="606" alt="image" src="https://github.com/user-attachments/assets/4560f7f2-5be3-425e-a6cd-8bb9cc08edb8" />
 
 
 ### Recording Links
@@ -1103,7 +1121,7 @@ Private
 
 Working with high speed connections. Keeping them aside and make something out of the tight space to route my usb 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4OTcsInB1ciI6ImJsb2JfaWQifX0=--670f53986cf2cf5e7f81ca92e416ab0e039b594a/image.png)
+<img width="468" height="616" alt="image" src="https://github.com/user-attachments/assets/77987091-6fd7-4539-b190-2cb837ef645b" />
 
 Removing ESD protection from HDMI. Camera and HDMI routing is complete. I am satisfied. 
 
@@ -1122,13 +1140,13 @@ Private
 
 USB routing
 
-The usb routing was a real pain. Couldn't find a single way to match their length finally did it. 
+The usb routing was a real pain. Couldn't find a single way to match their length finally did it.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NzMsInB1ciI6ImJsb2JfaWQifX0=--6f0e169f456956cef07a8d2843f2312bfcde5b26/image.png)
+<img width="563" height="350" alt="image" src="https://github.com/user-attachments/assets/9d553fb0-ac12-4e64-80b8-21a840c1f068" />
 
 Full usb section is complete 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NzQsInB1ciI6ImJsb2JfaWQifX0=--819e52a3569d834cff14092e8b743027408f2f87/image.png)
+<img width="528" height="441" alt="image" src="https://github.com/user-attachments/assets/708cd2dc-c385-479d-a0ec-501988bc7e68" />
 
 
 ### Recording Links
@@ -1150,11 +1168,11 @@ Had to choose some smaller footprints for my board.
 
 Heading to the PCIe routing of my board. The power section is under the ssd. Hopefully it fits.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU2MjAsInB1ciI6ImJsb2JfaWQifX0=--d0f84a5452fd56f793090ba4e2db848c6ce0677b/image.png)
+<img width="507" height="559" alt="image" src="https://github.com/user-attachments/assets/625f7521-e035-4098-8b31-0c67d019a77c" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU2MjEsInB1ciI6ImJsb2JfaWQifX0=--f49e0fcbcc9b3f866a9573228e542774f7db3467/image.png)
+<img width="720" height="486" alt="image" src="https://github.com/user-attachments/assets/ff4d1cdb-abf8-4d79-be3b-c37e835144d3" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjU2MjIsInB1ciI6ImJsb2JfaWQifX0=--5586964fd5db7949c84e09b06265167d45f68a7f/image.png)
+<img width="224" height="426" alt="image" src="https://github.com/user-attachments/assets/56cd82c2-55e9-4142-a05e-c52d9b4106e9" />
 
 
 ### Recording Links
@@ -1172,7 +1190,7 @@ I am really crashing out. Cause the space is short and more connectors are here 
 
 Going to change the CM4 placement. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYxMjAsInB1ciI6ImJsb2JfaWQifX0=--fd65f7ef053cfd70e41b960016dbc0ed3dada444/image.png)
+<img width="665" height="500" alt="image" src="https://github.com/user-attachments/assets/24c563d0-3d14-43fa-b275-b9a48ecedefe" />
 
 
 ### Recording Links
@@ -1188,9 +1206,9 @@ Private
 
 High speed routing is a no joke. I am glad that I can get this result. Hope gully to soon finish my high speed routing. Then I have to move to ADC routing and section that.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYyODUsInB1ciI6ImJsb2JfaWQifX0=--369ba91e4422e690b113dae132e1c4ecf8abe627/image.png)
+<img width="788" height="507" alt="image" src="https://github.com/user-attachments/assets/c84d2569-b429-4924-9c51-55d7cded83b1" />
 
-![Screenshot 2026-06-03 155750.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYyODYsInB1ciI6ImJsb2JfaWQifX0=--ae42cf2bc2bcef2a537b413a68ba3668e3a904ac/Screenshot 2026-06-03 155750.png)
+<img width="588" height="609" alt="image" src="https://github.com/user-attachments/assets/27953709-fd4d-4c30-a9fa-003964e7a68a" />
 
 
 ### Recording Links
@@ -1206,7 +1224,7 @@ Private
 
 Not much progress done. Finished off the High speed connectors IO port. Things are so messy, I can't get my mind on organizing it. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY4ODMsInB1ciI6ImJsb2JfaWQifX0=--1fa7518e1297e8a2445b500184f34dd56aedbce9/image.png)
+<img width="444" height="508" alt="image" src="https://github.com/user-attachments/assets/de125310-0b3d-4c08-aff8-9a385fdcb1ff" />
 
 
 ### Recording Links
@@ -1222,7 +1240,7 @@ Private
 
 Just doing the IO routing and planning out the component placement. There is not much to explain rather than following up with routing process 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA0MjIsInB1ciI6ImJsb2JfaWQifX0=--2a2fd18c3bdee612319339ea008b22e23d0609c8/image.png)
+<img width="427" height="521" alt="image" src="https://github.com/user-attachments/assets/eeded49c-b44f-423f-bd6b-467b57a0601d" />
 
 
 ### Recording Links
@@ -1255,7 +1273,7 @@ So I am figuring out what I can do.
 
 Thinking about utilizing with Google Coral. Which will give me a npu support for ai through usb
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA1NTksInB1ciI6ImJsb2JfaWQifX0=--51f888e95ef3518f1b5e78d98f2b5dab24fabec0/image.png)
+<img width="525" height="556" alt="image" src="https://github.com/user-attachments/assets/88f5a4ad-a06e-4217-b285-f0bbfd0bbb5e" />
 
 
 ## Entry 45
@@ -1267,7 +1285,7 @@ Thinking about utilizing with Google Coral. Which will give me a npu support for
 
 Removed the SSD and related power converters and working on the USB 3.0. U can actually get two usb 3.0 but current I don't need one. I am quite happy with one. Challenge is I have to tight fit it in the PCB.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA1OTEsInB1ciI6ImJsb2JfaWQifX0=--41d580ad5c0a1b30c34f6dd4042e0c7d27385474/image.png)
+<img width="486" height="504" alt="image" src="https://github.com/user-attachments/assets/af2182ce-ea0f-47ac-b15d-ff38c651f9da" />
 
 
 ### Recording Links
@@ -1291,7 +1309,8 @@ Lots of back and forth of design and almost finished the routing.
 For analog signal made a separate copper plane and agnd is connected to star gnd with a 0 ohm resistor
 
   
-![Screenshot 2026-06-20 141635.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMjIsInB1ciI6ImJsb2JfaWQifX0=--2b10274e9dce85f8b9c9cacba8e531d04a5aeb2f/Screenshot 2026-06-20 141635.png)
+<img width="611" height="633" alt="image" src="https://github.com/user-attachments/assets/76d4959d-f1ef-4638-b795-7d265c16bc8d" />
+
 
 
 ### Recording Links
@@ -1326,7 +1345,7 @@ Back to sensor I upgraded my barometer with more better sensor. Now I have to up
 
 Back to the ethernet
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0MzgsInB1ciI6ImJsb2JfaWQifX0=--49d1a3dc25e2e88e08d11c841d02354f5f67e11a/image.png)
+<img width="443" height="550" alt="image" src="https://github.com/user-attachments/assets/1bdf230b-8840-44c0-b83d-a36474d7eeb0" />
 
 
 ### Recording Links
@@ -1354,9 +1373,9 @@ Also, Moved all the indicator led's to the side so that it looks clean and organ
 
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzkwMDYsInB1ciI6ImJsb2JfaWQifX0=--91bc3a78395bd134b84e64463447749bc0b57200/image.png)
+<img width="619" height="517" alt="image" src="https://github.com/user-attachments/assets/656fce4f-f079-4a0c-bc31-531fdacd9c31" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzkwMDcsInB1ciI6ImJsb2JfaWQifX0=--96b3a6ff7272495e3e155f639adc15cef12de4d3/image.png)
+<img width="310" height="594" alt="image" src="https://github.com/user-attachments/assets/4509de2c-b44c-4ea6-9227-634d44a2fced" />
 
 
 
@@ -1376,7 +1395,7 @@ Moving all the GPIO and leds to one side.
 
 But shit How I removed all the GND Vias. I need to redo everything. I hate me .
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1NTQsInB1ciI6ImJsb2JfaWQifX0=--b145754c932bfa2b1cf20a195952f6e2242d9121/image.png)
+<img width="720" height="696" alt="image" src="https://github.com/user-attachments/assets/fcbdd8af-8c88-4ad2-b043-e69e46b3e924" />
 
 
 ### Recording Links
@@ -1410,9 +1429,9 @@ Also, there are three user configurable LEDs which I can use but I only need 2 m
 
 My user configure LEDs would be to status my co processor and to status my Sensor establishment.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA2NTUsInB1ciI6ImJsb2JfaWQifX0=--7df8c40962f4f2af0ca0d4ed69e0d699da5ef2e0/image.png)
+<img width="545" height="462" alt="image" src="https://github.com/user-attachments/assets/d47724d4-d1ab-4dc2-8dae-822b21d21c6a" />
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA2NTYsInB1ciI6ImJsb2JfaWQifX0=--78550e5b1be71a3983f2945bb0ee135edf299395/image.png)
+<img width="331" height="478" alt="image" src="https://github.com/user-attachments/assets/6296db4f-ecea-4c92-9bd5-0e80428a5339" />
 
 
 ### Recording Links
@@ -1432,11 +1451,11 @@ Cleared a whole backlog of DRC error.
 
 And working on the Silkscreen of my PCB and exposing testpads in the back
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA3NjcsInB1ciI6ImJsb2JfaWQifX0=--cfb7475ebf9c2d99e1f8cf8ee08ce8e9dd5b04e3/image.png)
+<img width="694" height="709" alt="image" src="https://github.com/user-attachments/assets/7fb48b19-874d-42f5-8eb1-3020cb71f536" />
 
 
+<img width="482" height="508" alt="image" src="https://github.com/user-attachments/assets/3a6b2b1d-e708-4dba-a566-a535ee44c9a5" />
 
-![Screenshot 2026-07-06 002935.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA3NjgsInB1ciI6ImJsb2JfaWQifX0=--c0ec0f1a038d6d401f986ad0c1110408057a59ae/Screenshot 2026-07-06 002935.png)
 
 
 ### Recording Links
@@ -1457,9 +1476,9 @@ Also, I have to make place for my 12V powers sensing tooo.
  Also, I did not realise that I have to length match the SPI connection in 50 ohms. So that was a cool trade off.
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA4MTksInB1ciI6ImJsb2JfaWQifX0=--72f2f5c6b7fff3f390ba685ed29661b3df0f4ed3/image.png)
+<img width="654" height="714" alt="image" src="https://github.com/user-attachments/assets/d2318e4e-55ea-415e-92b0-6359d9772263" />
 
-![Screenshot 2026-07-07 093409.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA4MjAsInB1ciI6ImJsb2JfaWQifX0=--eba4e8dd1c51e7f7a169ac8709e8231e51fdc25b/Screenshot 2026-07-07 093409.png)
+<img width="703" height="650" alt="image" src="https://github.com/user-attachments/assets/d1589c79-5a71-4987-814a-2027cd819ff3" />
 
 
 ### Recording Links
@@ -1481,20 +1500,20 @@ Also, finished the ADS chip routing.
 
 Here are some cool photos 
 
-![Screenshot 2026-07-08 131203.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MjUsInB1ciI6ImJsb2JfaWQifX0=--1f4c3d5fccd5f4001465023937f73cd94a9df303/Screenshot 2026-07-08 131203.png)
+<img width="633" height="433" alt="image" src="https://github.com/user-attachments/assets/ea238dc3-adb5-43d8-ab36-a20794a4f459" />
 
-![Screenshot 2026-07-08 150344.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MjYsInB1ciI6ImJsb2JfaWQifX0=--811d899bc6b6beba8e3cced40d3cef604d129893/Screenshot 2026-07-08 150344.png)
+<img width="643" height="622" alt="image" src="https://github.com/user-attachments/assets/81367800-10bc-4675-afc4-5c311881d172" />
 
-![Screenshot 2026-07-08 150350.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MjcsInB1ciI6ImJsb2JfaWQifX0=--f59a982020b809b0616f681f694d47477083193f/Screenshot 2026-07-08 150350.png)
+<img width="601" height="605" alt="image" src="https://github.com/user-attachments/assets/853ddfe8-befc-4ed0-b607-2c5b291d44f3" />
 
-![Screenshot 2026-07-08 150404.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MjgsInB1ciI6ImJsb2JfaWQifX0=--ad80014922cdd94d93cbd83c35ddbd495d84fc7e/Screenshot 2026-07-08 150404.png)
+<img width="1004" height="786" alt="image" src="https://github.com/user-attachments/assets/36c22f95-fe29-4cc8-9784-40698ccb6420" />
 
+<img width="1056" height="787" alt="image" src="https://github.com/user-attachments/assets/fc05626e-42a8-4b52-9339-dddff7bedc91" />
 
-![Screenshot 2026-07-08 150414.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MjksInB1ciI6ImJsb2JfaWQifX0=--989916719eea2826f88fb5766055683a03c6f8e5/Screenshot 2026-07-08 150414.png)
+<img width="672" height="556" alt="image" src="https://github.com/user-attachments/assets/494a6f75-2054-461f-9ce7-e4346bdb25d5" />
 
-![Screenshot 2026-07-08 162304.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MzAsInB1ciI6ImJsb2JfaWQifX0=--7b080dfdbfe3c0be6972532921d6d3c5b0cd386e/Screenshot 2026-07-08 162304.png)
+<img width="675" height="548" alt="image" src="https://github.com/user-attachments/assets/6440f8da-7b7f-4d67-b714-8a2da5402628" />
 
-![Screenshot 2026-07-08 162314.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MzEsInB1ciI6ImJsb2JfaWQifX0=--f558c3219cee954af9214cb73d67e244fbc4c21c/Screenshot 2026-07-08 162314.png)
 
 
 ### Recording Links
