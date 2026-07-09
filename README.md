@@ -72,22 +72,22 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 [Schematics V1](<SCH_Schematic_2026-07-08.pdf>)
 
 ### Front Layer
-    ![Front Layer](PCB_PCB_2026-07-09.png)
+![Front Layer](PCB_PCB_2026-07-09.png)
 
 ### Inner 1 - GND Plane 
-    ![INN1](PCB_IN1_2026-07-09.png)
+![INN1](PCB_IN1_2026-07-09.png)
 
 ### Inner 2
-    ![Inn2](PCB_IN2_2026-07-09.png)
+![Inn2](PCB_IN2_2026-07-09.png)
  
 ### Inner 3 - Power 
-    ![Inn3](PCB_IN3_2026-07-09.png)
+![Inn3](PCB_IN3_2026-07-09.png)
 
 ### Inner 4 - GND Plane
-    <img width="1810" height="1920" alt="PCB_IN4_2026-07-09" src="https://github.com/user-attachments/assets/77f50236-0d49-4693-a4ec-42429aaf418a" />
+<img width="1810" height="1920" alt="PCB_IN4_2026-07-09" src="https://github.com/user-attachments/assets/77f50236-0d49-4693-a4ec-42429aaf418a" />
     
 ### Bottom Layer
-    <img width="1866" height="1980" alt="PCB_Back_2026-07-09" src="https://github.com/user-attachments/assets/6536f3a2-9c1e-4325-b2ec-f062e7503008" />
+<img width="1866" height="1980" alt="PCB_Back_2026-07-09" src="https://github.com/user-attachments/assets/6536f3a2-9c1e-4325-b2ec-f062e7503008" />
 
 ![alt text](<3D_PCB_2026-07-09 v2 (1).png>)
 
