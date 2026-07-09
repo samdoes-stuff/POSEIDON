@@ -104,7 +104,7 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 
 2. Before selecting the Os. Download the latest xbookworm.zip file from [this repo](https://github.com/bluerobotics/BlueOS) Then extract it and get the image file. On the PI Imager tool select the BlueOs image and you done.
 
-3.Also, this carrier has Eeprom. So, to flash the Eeprom is also easy too. Follow [this](https://www.raspberrypi.com/documentation/computers/compute-module.html#flash-compute-module-bootloader-eeprom) guide while performing the above steps.
+3.Also, this carrier has Eeprom. So, to flash the Eeprom is also easy too. Follow [this](https://www.raspberrypi.com/documentation/computers/compute-module.html#flash-compute-module-bootloader-eeprom) guide while performing the above steps. For jumpering Eeprom use Test Pads in the Bottom Layer named "EEPROM" and "GND"
 
 
 # Credit 
