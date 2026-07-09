@@ -102,3 +102,7 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 # Credit 
 
 [Blue Robotics](https://bluerobotics.com/) & Murex Robotics
+
+# AI Usage 
+
+AI was used for information gather, clarity, research and fetching only. No AI has been used to do elecrical routing of the actual board. All the routings are manual and video logged
