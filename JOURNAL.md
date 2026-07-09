@@ -1518,3 +1518,14 @@ Here are some cool photos
 
 ### Recording Links
 
+
+# Note for the Reviewers - (Should be deleted after approval)
+
+I used Lapse for all of my recordings. But in the middle when lapse was unstable I used lookout. I will be very happy if that session also counts toward the project. 
+
+Entry 45 and 46 
+- [45](https://lookout.hackclub.com/api/media/2c1a91ac-6a7a-4bf0-a090-aabfe188b551/video.mp4)  - 1 hours and 9 minute 
+- [46](https://lookout.hackclub.com/api/media/56543d2a-21f5-4683-b311-056076d6c296/video.mp4) - 16 minutes
+
+Lapse recordings are synced with Hackatime
+If you want all of the lapse recordings also, you have to NDAed and please DM me. 
