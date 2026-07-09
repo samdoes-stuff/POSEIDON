@@ -1528,4 +1528,4 @@ Entry 45 and 46
 - [46](https://lookout.hackclub.com/api/media/56543d2a-21f5-4683-b311-056076d6c296/video.mp4) - 16 minutes
 
 Lapse recordings are synced with Hackatime
-If you want all of the lapse recordings also, you have to NDAed and please DM me. 
+Even after that you want all of the lapse recordings also, you have to NDAed and please DM me. 
