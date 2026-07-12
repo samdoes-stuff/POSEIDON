@@ -1,8 +1,8 @@
 # POSEIDON 
 
-![alt text](<3D_PCB_2026-07-09 v2 (2).png>)
+![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (2).png>)
 
-![alt text](<3D_PCB_2026-07-09 v2.png>)
+![alt text](<3D & Render/3D_PCB_2026-07-09 v2.png>)
 
 POSEIDON is a robotics control system, focused on ROV systems. It is a open-source CM4-based ROV control board, with the implementation of a USB3.0 controller, and low-cost USB2.0 hub and micro USB-OTG
 
@@ -89,9 +89,9 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 ### Bottom Layer
 <img width="1866" height="1980" alt="PCB_Back_2026-07-09" src="https://github.com/user-attachments/assets/6536f3a2-9c1e-4325-b2ec-f062e7503008" />
 
-![alt text](<3D_PCB_2026-07-09 v2 (1).png>)
+![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (1).png>)
 
-![alt text](3D_PCB_2026-07-09_v1_2026-Jul-08_06-17-23PM-000_CustomizedView3597781667_png_alpha.png)
+![alt text](<3D & Render/3D_PCB_2026-07-09_v1_2026-Jul-08_06-17-23PM-000_CustomizedView3597781667_png_alpha.png>)
 
 # BOM 
   [BOM](BOM.csv)
