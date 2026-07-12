@@ -109,7 +109,8 @@ POSEIDON is a robotics-oriented application of the Raspberry Pi Compute Module 4
 
 # Credit 
 
-[Blue Robotics](https://bluerobotics.com/) & Murex Robotics
+[Blue Robotics](https://bluerobotics.com/) <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c14e7e5b-cb02-41be-971b-b532d623d1ad" />
+Murex Robotics
 
 # AI Usage 
 
