@@ -1638,6 +1638,30 @@ Here are some cool photos
 - https://lookout.hackclub.com/api/media/0b723606-5750-4f8a-986e-4b6bc04f3552/video.mp4
 - https://lookout.hackclub.com/api/media/57f0ecae-70a4-4b41-8e13-25307f6b6b5a/video.mp4
 
+## Entry 54
+- ID: 16566
+- Author: Shades
+- Created At: 2026-07-12T05:12:03Z
+
+### Content
+
+After finishing the project, Uploaded everything in Github and now organizing everything to make it more presentable.
+
+Fixing the image directory. Formatting the Journal.md with proper images and lapse link
+
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDExMTUsInB1ciI6ImJsb2JfaWQifX0=--af2e51faa9176e1354459b3b4ece149290356598/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/9e709473-7581-4ba7-9bbc-07ddc67b2434/video.mp4
+- https://lookout.hackclub.com/api/media/638c31c7-f127-4a77-8180-7d546b28ab05/video.mp4
+- https://lookout.hackclub.com/api/media/7694657e-4166-4c85-b47d-d3f8e2ad0104/video.mp4
+- https://lookout.hackclub.com/api/media/f5c6f721-2499-4ecb-a8c7-bc3afb4e7759/video.mp4
+
+
+
+
 # Note for the Reviewers - (Should be deleted after approval)
 
 I used Lapse for all of my recordings. But in the middle when lapse was unstable, I used lookout. I will be very happy if that session also counts toward the project. Even though now lapse uses lookout.
