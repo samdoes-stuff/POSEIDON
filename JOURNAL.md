@@ -157,7 +157,7 @@ Named the project. Though About what should I made. It was a basically a test re
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/FkCdQ_rLYuiU/timelapse-FkCdQ_rLYuiU.mp4
+
 
 
 ## Entry 2
@@ -174,7 +174,7 @@ Added the CM4 female connector to the schematics. It was sort and was part of  t
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/iTI5UaLuOtzo/timelapse-iTI5UaLuOtzo.mp4
+
 
 
 ## Entry 3
@@ -191,7 +191,7 @@ Main goal was to make  a ROV so looked up some existing rov controller to make m
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/X69BuqMKmmVY/timelapse-X69BuqMKmmVY.mp4
+
 
 
 ## Entry 4
@@ -209,7 +209,7 @@ Just finished the GPIO routing in  CM4. Basically using Blue Robotics Navigator 
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/mEafCGJjIkwj/timelapse-mEafCGJjIkwj.mp4
+
 
 ## Entry 5
 - ID: 160
@@ -227,7 +227,7 @@ Also I was wondering what should I use. A sd card or a ssd. I didn't decided yet
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/y2wBJvhOXfS3/timelapse-y2wBJvhOXfS3.mp4
+
 
 
 ## Entry 6
@@ -245,7 +245,7 @@ Done the power indicating LED and GPIO pullup resistor. Kind of Just made the fr
 
 
 ### Recording Links
-- https://public.lapse-hackclub.link/timelapses/_kZoFr48UUBP/timelapse-_kZoFr48UUBP.mp4
+
 
 
 ## Entry 7
@@ -267,8 +267,6 @@ I am thinking how can I work with the power. That is the main issue now
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/fIk_nT01mz3X/timelapse-fIk_nT01mz3X.mp4
-- https://public.lapse-hackclub.link/timelapses/c4J8hU7nD0kO/timelapse-c4J8hU7nD0kO.mp4
 
 
 ## Entry 8
@@ -301,7 +299,7 @@ also for testing this controller with my joystick, I added analog input options
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/yoDpeuFibS_q/timelapse-yoDpeuFibS_q.mp4
+
 
 
 ## Entry 9
@@ -333,8 +331,7 @@ Also added SBUS to controll RC Signal if I think to fly it as a drone. It will b
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/mewFnlOkb6Dr/timelapse-mewFnlOkb6Dr.mp4
-- https://public.lapse-hackclub.link/timelapses/pX_6vvWSdZ9X/timelapse-pX_6vvWSdZ9X.mp4
+
 
 
 ## Entry 10
@@ -357,8 +354,7 @@ Also worked on general Connectors which are pretty common for a RC controller. I
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/mcBYZct6bPip/timelapse-mcBYZct6bPip.mp4
-- https://public.lapse-hackclub.link/timelapses/8xp4VZ9ti-tL/timelapse-8xp4VZ9ti-tL.mp4
+
 
 
 ## Entry 11
@@ -391,7 +387,7 @@ Also done the ethernet routing for network. I thought I would make the network s
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/hqIDkxEc2Te9/timelapse-hqIDkxEc2Te9.mp4
+
 
 ## Entry 12
 - ID: 489
@@ -409,7 +405,7 @@ Either I will make it onboard or I will do nothing. I tried to figured out what 
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/gnpi_oq3L_N5/timelapse-gnpi_oq3L_N5.mp4
+
 
 
 ## Entry 13
@@ -435,7 +431,7 @@ I was researching some good connectors too but after sawing some schematic, I ne
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/jSBw6U57ijFM/timelapse-jSBw6U57ijFM.mp4
+
 
 
 ## Entry 14
@@ -458,7 +454,7 @@ checking out the GPIO pins are compatible with me schematics or not
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/qHMCX-IUguBo/timelapse-qHMCX-IUguBo.mp4
+
 
 
 ## Entry 15
@@ -478,7 +474,7 @@ Procasinating about my plans. And started finishing my SSD and Started my Fan co
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/XKrGPVGXKPXA/timelapse-XKrGPVGXKPXA.mp4
+
 
 ## Entry 16
 - ID: 538
@@ -507,8 +503,7 @@ For now, I will have HDMI, Type-C Display and a touch screen lcd for later.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/Eg3N5_EF-WU_/timelapse-Eg3N5_EF-WU_.mp4
-- https://public.lapse-hackclub.link/timelapses/7FGFwqUnIvln/timelapse-7FGFwqUnIvln.mp4
+
 
 
 ## Entry 17
@@ -525,8 +520,7 @@ Just doing the USB-C display option but my current went off sadly. I am still th
  
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/sf-BrG9_NJRp/timelapse-sf-BrG9_NJRp.mp4
-- https://public.lapse-hackclub.link/timelapses/IUoDDzcpERWQ/timelapse-IUoDDzcpERWQ.mp4
+
 
 ## Entry 18
 - ID: 660
@@ -549,7 +543,7 @@ I don't have any good picture for this season. This is the module's pic.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/KVwawVGVoWle/timelapse-KVwawVGVoWle.mp4
+
 
 ## Entry 19
 - ID: 7728
@@ -571,7 +565,7 @@ Most of the cases, I need a 3.3V gpio pin where there are also some 1.8V Gpio Pi
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/kYiL7G6vFwHN/timelapse-kYiL7G6vFwHN.mp4
+
 
 ## Entry 20
 - ID: 9038
@@ -608,8 +602,7 @@ Putting the GPIO pins right now. Leaving the SYNC_IN and SYNC_OUT portion. Reaso
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/-puKiixUWG1-/timelapse--puKiixUWG1-.mp4
-- https://public.lapse-hackclub.link/timelapses/zB0LRgHoPVH5/timelapse-zB0LRgHoPVH5.mp4
+
 
 ## Entry 21
 - ID: 9115
@@ -663,7 +656,7 @@ For now, one connector is full completed. (Again with proper knowledge)
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/JHlyv3IIrujt/timelapse-JHlyv3IIrujt.mp4
+
 
 ## Entry 22
 - ID: 9154
@@ -724,7 +717,7 @@ Now to the power, first of all I will refer to the Blue robotics Navigator power
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/gwW8TM38hw0-/timelapse-gwW8TM38hw0-.mp4
+
 
 
 ## Entry 23
@@ -761,7 +754,7 @@ The decoupling of the 3v3 is just copy paste.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/86eovrX3gII0/timelapse-86eovrX3gII0.mp4
+
 
 
 ## Entry 24
@@ -778,8 +771,7 @@ USBhub is completed. I used USB-C for OTG. and two USB 2.0 Female Type-A for acc
 
 ### Recording Link
 
-- https://public.lapse-hackclub.link/timelapses/3ci54Dbhon6r/timelapse-3ci54Dbhon6r.mp4
-- https://public.lapse-hackclub.link/timelapses/YPs54McjTR9r/timelapse-YPs54McjTR9r.mp4
+
 
 ## Entry 25
 - ID: 9398
@@ -817,7 +809,7 @@ So, actually I understood power sense module wrong. It is actually a observer be
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/ZLkN0-Zi2Ta3/timelapse-ZLkN0-Zi2Ta3.mp4
+
 
 ## Entry 26
 - ID: 9445
@@ -849,7 +841,7 @@ I think making a step down converter is risky. I found one but cannot focus righ
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/S5h7vm4D6m8I/timelapse-S5h7vm4D6m8I.mp4
+
 
 ## Entry 27
 - ID: 9704
@@ -898,7 +890,7 @@ Lots of research today but only less schematics.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/luTjL0mK1oGT/timelapse-luTjL0mK1oGT.mp4
+
 
 ## Entry 28
 - ID: 9720
@@ -923,7 +915,7 @@ Also, I lot of research
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/uShCDxBMUJd3/timelapse-uShCDxBMUJd3.mp4
+
 
 ## Entry 29
 - ID: 9922
@@ -966,7 +958,7 @@ I decided to use the connectors used by the BlueRobotics Navigator. Oh man! I ca
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/2S3p1Lo2aYm0/timelapse-2S3p1Lo2aYm0.mp4
+
 
 ## Entry 30
 - ID: 10090
@@ -987,7 +979,7 @@ Probably all set but there is a high chance I will see another problem after sta
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/MH_f8xRSa6LP/timelapse-MH_f8xRSa6LP.mp4
+
 
 ## Entry 31
 - ID: 10103
@@ -1008,7 +1000,7 @@ Working on the PCB!!
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/7ZStb5mw45wI/timelapse-7ZStb5mw45wI.mp4
+
 
 ## Entry 32
 - ID: 10157
@@ -1030,8 +1022,7 @@ Just finished the power section with CMOS. But the space feels lil tight.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/7jdIsT6niurT/timelapse-7jdIsT6niurT.mp4
-- https://public.lapse-hackclub.link/timelapses/rzooiJ6K5jkU/timelapse-rzooiJ6K5jkU.mp4
+
 
 ## Entry 33
 - ID: 10205
@@ -1048,7 +1039,7 @@ Space is so tight but have to fit all of the connectors. I am highly thinking ab
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/TPvH-USjY2j5/timelapse-TPvH-USjY2j5.mp4
+
 
 ## Entry 34
 - ID: 10473
@@ -1078,8 +1069,7 @@ Next stop is to put the power sense module.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/HUCBWtYFix9t/timelapse-HUCBWtYFix9t.mp4
-- https://public.lapse-hackclub.link/timelapses/OiwJzCBsVQbn/timelapse-OiwJzCBsVQbn.mp4
+
 
 ## Entry 35
 - ID: 10601
@@ -1103,8 +1093,7 @@ Also there is 8 pin Power sense connection directly to the board.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/oN4TFWEil7sv/timelapse-oN4TFWEil7sv.mp4
-- https://public.lapse-hackclub.link/timelapses/ZXu4JLrsx12G/timelapse-ZXu4JLrsx12G.mp4
+
 
 ## Entry 36
 - ID: 10840
@@ -1133,7 +1122,7 @@ Starting the high speed portion of my board.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/KmI98mMz72Eu/timelapse-KmI98mMz72Eu.mp4
+
 
 ## Entry 37
 - ID: 10926
@@ -1152,8 +1141,7 @@ Changing the ethernet connector cause it is upside down.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/xFHyVZhXi8h0/timelapse-xFHyVZhXi8h0.mp4
-- https://public.lapse-hackclub.link/timelapses/JNYpOZaWj2EU/timelapse-JNYpOZaWj2EU.mp4
+
 
 ## Entry 38
 - ID: 11111
@@ -1175,7 +1163,7 @@ Full usb section is complete
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/KI-MojoC4JWq/timelapse-KI-MojoC4JWq.mp4
+
 
 ## Entry 39
 - ID: 11154
@@ -1201,7 +1189,7 @@ Heading to the PCIe routing of my board. The power section is under the ssd. Hop
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/hcZoLPGq7ifM/timelapse-hcZoLPGq7ifM.mp4
+
 
 ## Entry 40
 - ID: 11326
@@ -1219,7 +1207,7 @@ Going to change the CM4 placement.
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/NE4n58Z3aAmA/timelapse-NE4n58Z3aAmA.mp4
+
 
 ## Entry 41
 - ID: 11353
@@ -1237,7 +1225,7 @@ High speed routing is a no joke. I am glad that I can get this result. Hope gull
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/UuiyAvbRAL_y/timelapse-UuiyAvbRAL_y.mp4
+
 
 ## Entry 42
 - ID: 11562
@@ -1253,8 +1241,7 @@ Not much progress done. Finished off the High speed connectors IO port. Things a
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/oDL25D9EjMVE/timelapse-oDL25D9EjMVE.mp4
-- https://public.lapse-hackclub.link/timelapses/yPMtM23YNdvk/timelapse-yPMtM23YNdvk.mp4
+
 
 ## Entry 43
 - ID: 12944
@@ -1270,9 +1257,7 @@ Just doing the IO routing and planning out the component placement. There is not
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/E4Y8ywEs9I4C/timelapse-E4Y8ywEs9I4C.mp4
-- https://public.lapse-hackclub.link/timelapses/r4t2UuJQr76t/timelapse-r4t2UuJQr76t.mp4
-- https://public.lapse-hackclub.link/timelapses/7H4ZOTzHdCOu/timelapse-7H4ZOTzHdCOu.mp4
+
 
 ## Entry 44
 - ID: 12983
@@ -1317,7 +1302,7 @@ Removed the SSD and related power converters and working on the USB 3.0. U can a
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/2c1a91ac-6a7a-4bf0-a090-aabfe188b551/video.mp4
+
 
 ## Entry 46
 - ID: 15521
@@ -1343,37 +1328,7 @@ For analog signal made a separate copper plane and agnd is connected to star gnd
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/vSmwTnL_YXma/timelapse-vSmwTnL_YXma.mp4
-- https://public.lapse-hackclub.link/timelapses/S8tbRpwZK-Cn/timelapse-S8tbRpwZK-Cn.mp4
-- https://public.lapse-hackclub.link/timelapses/GuwFw5TXZ-ar/timelapse-GuwFw5TXZ-ar.mp4
-- https://public.lapse-hackclub.link/timelapses/CGL0jWhBYsFE/timelapse-CGL0jWhBYsFE.mp4
-- https://public.lapse-hackclub.link/timelapses/x00t-o2Sn_z3/timelapse-x00t-o2Sn_z3.mp4
-- https://public.lapse-hackclub.link/timelapses/LqbKJ7__wGMF/timelapse-LqbKJ7__wGMF.mp4
-- https://public.lapse-hackclub.link/timelapses/xeDYPC0AHXOI/timelapse-xeDYPC0AHXOI.mp4
-- https://public.lapse-hackclub.link/timelapses/St1CwfxtTgNG/timelapse-St1CwfxtTgNG.mp4
-- https://public.lapse-hackclub.link/timelapses/3tVIc7URmjrK/timelapse-3tVIc7URmjrK.mp4
-- https://public.lapse-hackclub.link/timelapses/5xQssbtwQ4RQ/timelapse-5xQssbtwQ4RQ.mp4
-- https://public.lapse-hackclub.link/timelapses/LDHQCrifa2-R/timelapse-LDHQCrifa2-R.mp4
-- https://public.lapse-hackclub.link/timelapses/3CtyMrdTanRs/timelapse-3CtyMrdTanRs.mp4
-- https://public.lapse-hackclub.link/timelapses/e8dkkCTp07Fd/timelapse-e8dkkCTp07Fd.mp4
-- https://public.lapse-hackclub.link/timelapses/fQOuqm7ZlzR8/timelapse-fQOuqm7ZlzR8.mp4
-- https://public.lapse-hackclub.link/timelapses/zIYhuz_87PA-/timelapse-zIYhuz_87PA-.mp4
-- https://public.lapse-hackclub.link/timelapses/PDXCKILAGlf9/timelapse-PDXCKILAGlf9.mp4
-- https://public.lapse-hackclub.link/timelapses/McYnFkFyqyul/timelapse-McYnFkFyqyul.mp4
-- https://public.lapse-hackclub.link/timelapses/8b67HE7RBuXo/timelapse-8b67HE7RBuXo.mp4
-- https://public.lapse-hackclub.link/timelapses/QwaJrjT8a9aK/timelapse-QwaJrjT8a9aK.mp4
-- https://public.lapse-hackclub.link/timelapses/lBoWhs_5wVic/timelapse-lBoWhs_5wVic.mp4
-- https://public.lapse-hackclub.link/timelapses/SDH7BYEjrn6f/timelapse-SDH7BYEjrn6f.mp4
-- https://public.lapse-hackclub.link/timelapses/_-a0Pqh6-J0l/timelapse-_-a0Pqh6-J0l.mp4
-- https://public.lapse-hackclub.link/timelapses/iJWLLDgzCElu/timelapse-iJWLLDgzCElu.mp4
-- https://public.lapse-hackclub.link/timelapses/U5Ys-5A3Rxf2/timelapse-U5Ys-5A3Rxf2.mp4
-- https://public.lapse-hackclub.link/timelapses/SFGooDfMDDP2/timelapse-SFGooDfMDDP2.mp4
-- https://public.lapse-hackclub.link/timelapses/CIi1-UWWxcHr/timelapse-CIi1-UWWxcHr.mp4
-- https://public.lapse-hackclub.link/timelapses/5w5d8yv57MfK/timelapse-5w5d8yv57MfK.mp4
-- https://public.lapse-hackclub.link/timelapses/Ic2JTFEJTBZt/timelapse-Ic2JTFEJTBZt.mp4
-- https://public.lapse-hackclub.link/timelapses/2CnwNKSWQaTL/timelapse-2CnwNKSWQaTL.mp4
-- https://lookout.hackclub.com/api/media/fe1f186e-2a19-4837-9cff-e76c0c27f299/video.mp4
-- https://lookout.hackclub.com/api/media/56543d2a-21f5-4683-b311-056076d6c296/video.mp4
+
 
 ## Entry 47
 - ID: 16027
@@ -1408,10 +1363,7 @@ Back to the ethernet
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/_HKmpHNiDtY7/timelapse-_HKmpHNiDtY7.mp4
-- https://public.lapse-hackclub.link/timelapses/lASp2E_Zi5JA/timelapse-lASp2E_Zi5JA.mp4
-- https://public.lapse-hackclub.link/timelapses/NwuMD-jS2X-m/timelapse-NwuMD-jS2X-m.mp4
-- https://public.lapse-hackclub.link/timelapses/KwSBTq0YiLcj/timelapse-KwSBTq0YiLcj.mp4
+
 
 ## Entry 48
 - ID: 16139
@@ -1442,18 +1394,7 @@ Also, Moved all the indicator led's to the side so that it looks clean and organ
 
 ### Recording Links
 
-- https://public.lapse-hackclub.link/timelapses/PqPItKbqLqq0/timelapse-PqPItKbqLqq0.mp4
-- https://public.lapse-hackclub.link/timelapses/LxCBi2WoIM6P/timelapse-LxCBi2WoIM6P.mp4
-- https://public.lapse-hackclub.link/timelapses/-dvHzAuRnAqH/timelapse--dvHzAuRnAqH.mp4
-- https://public.lapse-hackclub.link/timelapses/My3rDsXS32y6/timelapse-My3rDsXS32y6.mp4
-- https://public.lapse-hackclub.link/timelapses/DS9mbE6mK-QV/timelapse-DS9mbE6mK-QV.mp4
-- https://public.lapse-hackclub.link/timelapses/p3LbimLtYvdT/timelapse-p3LbimLtYvdT.mp4
-- https://public.lapse-hackclub.link/timelapses/r0l7DCXZQjhu/timelapse-r0l7DCXZQjhu.mp4
-- https://public.lapse-hackclub.link/timelapses/ORh_R7Ul0bTR/timelapse-ORh_R7Ul0bTR.mp4
-- https://public.lapse-hackclub.link/timelapses/rjyTsBQeRHGB/timelapse-rjyTsBQeRHGB.mp4
-- https://public.lapse-hackclub.link/timelapses/HQn67IJpK4ai/timelapse-HQn67IJpK4ai.mp4
-- https://public.lapse-hackclub.link/timelapses/aLCTMyf2e9O7/timelapse-aLCTMyf2e9O7.mp4
-- https://public.lapse-hackclub.link/timelapses/mOOJ1YLa_nUb/timelapse-mOOJ1YLa_nUb.mp4
+
 
 
 ## Entry 49
@@ -1472,17 +1413,7 @@ But shit How I removed all the GND Vias. I need to redo everything. I hate me .
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/ec513996-57b3-438f-be47-2b7e5f6c63c1/video.mp4
-- https://lookout.hackclub.com/api/media/9d133300-d06e-4b1e-96fb-93e7ab270f24/video.mp4
-- https://lookout.hackclub.com/api/media/1e66f787-22ad-4cd1-9a3d-71047f4a0720/video.mp4
-- https://lookout.hackclub.com/api/media/8e13eab7-2cca-4941-a744-7779871e3edc/video.mp4
-- https://lookout.hackclub.com/api/media/77eb1f32-a2b6-43c5-b46b-b7ebf807830c/video.mp4
-- https://lookout.hackclub.com/api/media/eed234d3-5ca6-4eed-a69d-716427dc02f0/video.mp4
-- https://lookout.hackclub.com/api/media/e3046363-fbc6-4c14-bd42-a93c004db32b/video.mp4
-- https://lookout.hackclub.com/api/media/b049b273-ffd1-42e1-9c82-ab7a1c9ccc62/video.mp4
-- https://public.lapse-hackclub.link/timelapses/c98tMR373Jar/timelapse-c98tMR373Jar.mp4
-- https://public.lapse-hackclub.link/timelapses/_0YDM4YhgTvH/timelapse-_0YDM4YhgTvH.mp4
-- https://public.lapse-hackclub.link/timelapses/cnXgSQfi-q-F/timelapse-cnXgSQfi-q-F.mp4
+
 
 ## Entry 50
 - ID: 16427
@@ -1518,22 +1449,7 @@ My user configure LEDs would be to status my co processor and to status my Senso
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/919b24c2-1310-4ce9-9f7f-a03a00ceb50a/video.mp4
-- https://lookout.hackclub.com/api/media/0f8cf35e-fd64-482c-a812-100707313888/video.mp4
-- https://lookout.hackclub.com/api/media/ffa32473-c254-43bb-8d67-2b350449d706/video.mp4
-- https://lookout.hackclub.com/api/media/72316c91-048b-4979-8507-9f8ee7449f44/video.mp4
-- https://lookout.hackclub.com/api/media/970f241f-6b59-44b2-9371-fba0e0170114/video.mp4
-- https://lookout.hackclub.com/api/media/006cb4ff-b1d5-4fc2-bc91-360ae99db945/video.mp4
-- https://lookout.hackclub.com/api/media/97a3382a-ffed-4182-b29e-38c852ffc8c8/video.mp4
-- https://lookout.hackclub.com/api/media/c30c4aa5-18e1-4c1e-b72a-fbc0730019f8/video.mp4
-- https://lookout.hackclub.com/api/media/124d0300-1e26-49fc-9871-4528e30fdfd9/video.mp4
-- https://lookout.hackclub.com/api/media/dfc76c7a-68dd-4240-acd4-817483653b6d/video.mp4
-- https://lookout.hackclub.com/api/media/f3392da6-7e42-48c7-ab44-5e22363e57a2/video.mp4
-- https://lookout.hackclub.com/api/media/573b6577-cdac-47a8-a411-7133731cb946/video.mp4
-- https://lookout.hackclub.com/api/media/3308dbbb-31b3-4ddb-b380-9fcc91ab5b66/video.mp4
-- https://public.lapse-hackclub.link/timelapses/0r_-icWn1W-z/timelapse-0r_-icWn1W-z.mp4
-- https://lookout.hackclub.com/api/media/e65090e3-cf84-4d83-a8d1-8c2c5a8aea7d/video.mp4
-- https://lookout.hackclub.com/api/media/26cb331e-67f0-4337-a569-6a668db1acb4/video.mp4
+
 
 ## Entry 51
 - ID: 16461
@@ -1557,14 +1473,7 @@ And working on the Silkscreen of my PCB and exposing testpads in the back
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/135929fd-61d1-4400-8da8-5f9e30b15752/video.mp4
-- https://lookout.hackclub.com/api/media/e80d6c00-f698-4f11-b1a8-265fbc6a25ff/video.mp4
-- https://lookout.hackclub.com/api/media/a0cd3284-d6b0-4352-819b-1fe6abf4a1e2/video.mp4
-- https://lookout.hackclub.com/api/media/4e4fa132-074b-4fff-9f16-e0c12fde303e/video.mp4
-- https://lookout.hackclub.com/api/media/e3d602a2-6856-4d39-99ab-0197a0526803/video.mp4
-- https://lookout.hackclub.com/api/media/c36edae7-6334-4a3c-bef3-547eb3b060da/video.mp4
-- https://lookout.hackclub.com/api/media/3e7842ac-f375-4205-ba9a-43b27eeccf95/video.mp4
-- https://lookout.hackclub.com/api/media/9b987326-e8c0-41ed-b52b-13afd7282191/video.mp4
+
 
 ## Entry 52
 - ID: 16477
@@ -1589,12 +1498,7 @@ Also, I have to make place for my 12V powers sensing tooo.
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/a09e24bc-9a2b-4f71-bcf6-c9cbdc0bed70/video.mp4
-- https://lookout.hackclub.com/api/media/a7bd70e8-b17b-4610-91c7-ecbf806630ed/video.mp4
-- https://lookout.hackclub.com/api/media/3053cd3e-2ff8-467f-9ff7-66909c5620b2/video.mp4
-- https://lookout.hackclub.com/api/media/da761f67-9e4c-44d0-9e35-43ba4ee9ddc7/video.mp4
-- https://lookout.hackclub.com/api/media/166f364e-96e1-4b53-9737-ba12d337da92/video.mp4
-- https://lookout.hackclub.com/api/media/e0369f84-d4a9-45d9-be72-e8661e6b4636/video.mp4
+
 
 ## Entry 53
 - ID: 16512
@@ -1630,13 +1534,7 @@ Here are some cool photos
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/aba2d06b-ec74-4040-8b1e-6d30a04420eb/video.mp4
-- https://lookout.hackclub.com/api/media/cb4dee71-96c1-47e8-916f-ae4a861b3833/video.mp4
-- https://lookout.hackclub.com/api/media/9a8e5d79-dfdd-4887-80e8-a0ff6f400296/video.mp4
-- https://lookout.hackclub.com/api/media/52cff286-0f9b-4282-bfc2-5720e4c7e003/video.mp4
-- https://lookout.hackclub.com/api/media/8bb4ecc5-a284-4476-8ed9-d853513e55b1/video.mp4
-- https://lookout.hackclub.com/api/media/0b723606-5750-4f8a-986e-4b6bc04f3552/video.mp4
-- https://lookout.hackclub.com/api/media/57f0ecae-70a4-4b41-8e13-25307f6b6b5a/video.mp4
+
 
 ## Entry 54
 - ID: 16566
@@ -1654,19 +1552,8 @@ Fixing the image directory. Formatting the Journal.md with proper images and lap
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/9e709473-7581-4ba7-9bbc-07ddc67b2434/video.mp4
-- https://lookout.hackclub.com/api/media/638c31c7-f127-4a77-8180-7d546b28ab05/video.mp4
-- https://lookout.hackclub.com/api/media/7694657e-4166-4c85-b47d-d3f8e2ad0104/video.mp4
-- https://lookout.hackclub.com/api/media/f5c6f721-2499-4ecb-a8c7-bc3afb4e7759/video.mp4
 
 
 
 
-# Note for the Reviewers - (Should be deleted after approval)
-
-I used Lapse for all of my recordings. But in the middle when lapse was unstable, I used lookout. I will be very happy if that session also counts toward the project. Even though now lapse uses lookout.
-
-Entry 45 and 46 
-- [45](https://lookout.hackclub.com/api/media/2c1a91ac-6a7a-4bf0-a090-aabfe188b551/video.mp4)  - 1 hours and 9 minute 
-- [46](https://lookout.hackclub.com/api/media/56543d2a-21f5-4683-b311-056076d6c296/video.mp4) - 16 minutes
 
