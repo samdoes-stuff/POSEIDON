@@ -1,5 +1,5 @@
 # POSEIDON 
-https://img.shields.io/badge/hackatime-137h%2051m-blue
+<img width="134" height="20" alt="image" src="https://github.com/user-attachments/assets/16fae03b-680f-453b-9d7b-76cc1d449978" />
 
 ![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (2).png>)
 
