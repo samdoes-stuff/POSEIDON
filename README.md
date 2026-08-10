@@ -1,5 +1,5 @@
 # POSEIDON 
-<img width="134" height="20" alt="image" src="https://github.com/user-attachments/assets/16fae03b-680f-453b-9d7b-76cc1d449978" />
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen](https://hackatime.hackclub.com/api/v1/badge/U08SJA9NWMV/samdoes-stuff/POSEIDON))
 
 ![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (2).png>)
 
