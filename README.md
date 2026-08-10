@@ -1,5 +1,5 @@
 # POSEIDON 
-https://hackatime.hackclub.com/api/v1/badge/U08SJA9NWMV/samdoes-stuff/POSEIDON
+https://img.shields.io/badge/hackatime-137h%2051m-blue
 
 ![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (2).png>)
 
