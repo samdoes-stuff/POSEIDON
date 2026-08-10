@@ -1,5 +1,5 @@
 # POSEIDON 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen](https://hackatime.hackclub.com/api/v1/badge/U08SJA9NWMV/samdoes-stuff/POSEIDON))
+![rr](https://hackatime.hackclub.com/api/v1/badge/U08SJA9NWMV/samdoes-stuff/POSEIDON)
 
 ![alt text](<3D & Render/3D_PCB_2026-07-09 v2 (2).png>)
 
